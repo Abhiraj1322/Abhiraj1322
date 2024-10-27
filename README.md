@@ -1,4 +1,4 @@
-[Banner](DALL·E 2024-10-27 11.29.21 - A banner for GitHub profile of Abhiraj, showing elements of web development only. The background features a calm night sky with stars and subtle mount.webp_)
+[Banner](DALL·E-2024-10-27-11.29.jpg)
 
 # Abhiraj
 
