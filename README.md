@@ -1,8 +1,10 @@
-[Banner](DALL·E-2024-10-27-11.29.jpg)
+(./DALL·E-2024-10-27-11.29.jpg)
 
 # Abhiraj
+# Hey there! 👋 I'm Abhiraj
 
-I Teach Code! Self-taught full-stack developer. Learning code and teaching code at [Humber Polytechnic](https://humber.ca/), Toronto, Canada.
+### Aspiring Web Developer | [Humber Polytechnic](https://humber.ca/), Toronto, Canada.
+
 
 My Github Markdown Portfolio [Portfolio]((https://abhiraj1322.github.io/Markdown-Portfolio/).
                             [ProfileCard](https://lnkd.in/exGgwa7B)
