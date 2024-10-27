@@ -1,5 +1,4 @@
-(./DALL·E-2024-10-27-11.29.jpg)
-
+![Banner](./responsive_web_design.jpg)
 # Abhiraj
 # Hey there! 👋 I'm Abhiraj
 
