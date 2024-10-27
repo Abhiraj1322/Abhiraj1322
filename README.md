@@ -8,8 +8,16 @@
 ## My Github Markdown Portfolio (https://abhiraj1322.github.io/Markdown-Portfolio/).
 ## My profileCard               (https://lnkd.in/exGgwa7B)
 
-My projects using Html css javascript
-## Age calculator( https://lnkd.in/euhKanDG)  ## Password Genrator( https://lnkd.in/euhKanDG) ## Flip card (https://lnkd.in/ebBh2RKe)
+# My Projects Using HTML, CSS, and JavaScript
+
+## Age Calculator  
+[Link](https://lnkd.in/euhKanDG)
+
+## Password Generator  
+[Link](https://lnkd.in/euhKanDG)
+
+## Flip Card  
+[Link](https://lnkd.in/ebBh2RKe)
 
 ### 💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhiraj-abhiraj-6129402b6/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
